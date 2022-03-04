@@ -1,5 +1,5 @@
 # Ray Brees Photographs (LSU Mss. 0236)
-Descriptive metadata from the Ray Brees Photographs Collection held at LSU and available through the Louisiana Digital Library.
+Descriptive metadata from the Ray Brees Photographs Collection held at LSU and available through the Louisiana Digital Library. See collection in the Louisiana Digital Library: https://louisianadigitallibrary.org/islandora/object/lsu-sc-brees:collection
 
 ## About the archival collection
 Summary: Collection of photographs gifted to LSU Libraries by Ray Brees. Photographs depict New Orleans French Quarter scenes, and various plantation homes across Louisiana. This collection includes 37 black and white snapshot photographs dated 1959-1960.
